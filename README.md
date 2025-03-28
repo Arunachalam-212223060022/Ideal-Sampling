@@ -80,5 +80,10 @@ plt.legend()
 plt.show()
 
 # Output Waveform
+![image](https://github.com/user-attachments/assets/02ebc628-0c4a-45b9-b83c-27c077d9bde3)
+
 
 # Results
+THUS THE IDEAL SAMPLING SIGNAL IS PERFORMED USING PYTHON
+
+
